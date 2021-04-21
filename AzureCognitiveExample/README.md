@@ -3,7 +3,8 @@
 
 ### William Fallas. williamfallas@gmail.com
 
-#### Spech and translation with  Google API
+
+#### Spech and translation with  Azure cognitive services
 
 The following project shows how to extract audio from video and translate  the same from english to spanish
 
