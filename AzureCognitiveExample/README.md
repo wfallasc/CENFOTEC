@@ -8,7 +8,6 @@
 
 The following project shows how to extract audio from video and translate  the same from english to spanish
 
-
 Main Steps
 
      -extract audio was format

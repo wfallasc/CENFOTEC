@@ -1,9 +1,9 @@
-# CENFOTEC
-## Programa de Especializacion en Inteligencia Artificial
+# William Fallas Coto
+## Machine Learning Examples
 
-## Tarea 10
+## williamfallas@gmail.com
 
-### MNIST prediction through web API
 
-William Fallas Coto
+
+
 
